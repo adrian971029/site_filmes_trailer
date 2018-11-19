@@ -1,10 +1,10 @@
 # site_filmes_trailer
 Este es um projecto da Udacity para o Nanodegree Desenvolvedor Web Full Stack
 
-#Que hace o projecto?
+# Que hace o projecto?
 Exibe no seu navegador uma lista de filmes, se voce clickar em um deles vai poder assistir o trailer
 
-#Requisitos?
+# Requisitos?
 Es necesario tener isntalado python no seu computador
 
 # Como executar este projecto?
